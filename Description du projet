@@ -1,0 +1,5 @@
+Ce projet permet la gestion des exigences d'un projet informatique
+Utilisateurs : manager et collaborateurs
+Entités: Projet, Exigence,Progression 
+Consulter le dossier PasaGlProject/src/Pasa/RequirementBundle/Entity/ pour voir la description
+merci
